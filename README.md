@@ -5,11 +5,12 @@
   
   ![Logo Fes Aragón](fesa.jpg)
   aqui va una **descripcion** del *repositorio*
-  ~ elemento 1
-  ~ elemento 2
-  ~ elemento 3
+  - elemento 1
+  - elemento 2
+  - elemento 3
 
-  ´´´
+  ```
   num = 10
   print("num vale=", num)
-  ´´´
+  
+  ```
