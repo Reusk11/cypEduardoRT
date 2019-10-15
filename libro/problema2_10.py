@@ -11,8 +11,8 @@ if a>b :
 elif a == b:
     if a>c:
         print(f" a y b son de mayor valor a {a}")
-        print(f"a b y c son iguales a {a}")
     else:
+        print(f"a b y c son iguales a {a}")
         print(f" c que vale {c} es el mayor")
 elif b > c:
     print(f" b que vale {b} es el mayor")
